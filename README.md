@@ -4,7 +4,7 @@
 
 ```
 {
-  "Linkedin" : "http://www.linkedin.com/gilliard-developer",
+  "Linkedin" : "https://www.linkedin.com/in/gilliard-developer",
   "Website" : "http://www.website.com.br",
   
   "Age" : 41,
