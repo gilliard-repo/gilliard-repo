@@ -1,16 +1,17 @@
-## Hi there 👋
+![image info](https://raw.githubusercontent.com/gilliard-repo/gilliard-repo/refs/heads/main/gihub-cover.png)
 
-<!--
-**gilliard-repo/gilliard-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# You are welcome to visit my social media profiles and Website!
 
-Here are some ideas to get you started:
+```
+{
+  "Linkedin" : "http://www.linkedin.com/gilliard-developer",
+  "Website" : "http://www.website.com.br",
+  
+  "Age" : 41,
+  "Live" : "São Paulo",
+  "Knowledge" : [ 'Reactjs', 'Nodejs', 'Express', 'MongoDB' ],
+  "Hobbies": [ 'Code', 'Nature', 'Animals', 'Study', 'Church', 'Archeology' ]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😀 Thank You! 😀
